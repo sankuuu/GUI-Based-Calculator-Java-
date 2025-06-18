@@ -25,7 +25,7 @@ A modern, GUI-based calculator built with Java AWT for fast, reliable, and distr
 
 ## 🖥️ Screenshots
 
- ![Image Alt]([image_url](https://github.com/sankuuu/GUI-Based-Calculator-Java-/blob/7ed53bc4540c8906cefca9f56492ec9254348deb/SS1.PNG))
+ ![Image Alt](https://github.com/sankuuu/GUI-Based-Calculator-Java-/blob/7ed53bc4540c8906cefca9f56492ec9254348deb/SS1.PNG)
 
 ---
 
