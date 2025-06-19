@@ -43,7 +43,7 @@ A modern, GUI-based calculator built with Java AWT for fast, reliable, and distr
 
 ```bash
 # Clone the repository
-git clone [https://github.com/sankuuu/xankets-custom-calculator.git](https://github.com/sankuuu/GUIBasedCalculator-Java.git)
+git clone https://github.com/sankuuu/xankets-custom-calculator.git](https://github.com/sankuuu/GUIBasedCalculator-Java.git
 
 # Navigate to the project directory
 cd xankets-custom-calculator
